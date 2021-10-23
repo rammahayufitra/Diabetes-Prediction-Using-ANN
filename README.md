@@ -4,5 +4,6 @@ FrameWork yang digunakan adalah PyTorch
 ![demo](https://github.com/rammahayufitra/Diabetes-Prediction-Using-ANN/blob/main/screenshot/Screenshot%20from%202021-10-23%2010-00-02.png)
 ![demo](https://github.com/rammahayufitra/Diabetes-Prediction-Using-ANN/blob/main/screenshot/Screenshot%20from%202021-10-23%2010-06-49.png)
 <br>
-<p>data diabetes terdiri dari dari 9 kelas dan 767 baris.</p>
+<p>data diabetes terdiri dari dari 9 kelas dan 767 baris.pada kolom outcome menerikan indormasi penderita diabetes dan bukan penderita diabetes. penderita diabetes ber-index nol dan bukan penderita non-diabetes ber-index 1</p>
 <br>
+![pesebaran data](https://github.com/rammahayufitra/Diabetes-Prediction-Using-ANN/blob/main/screenshot/output.png)
