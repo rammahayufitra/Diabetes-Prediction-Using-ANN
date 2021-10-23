@@ -8,5 +8,6 @@ FrameWork yang digunakan adalah PyTorch
 <br>
 <p>klasifikasi diabetes dan non-diabetes menggunakan artificial neural network. akurasi mencapai 80% akurasi ini masih termasuk rendah hal ini dikarenakan model neural netwok masih tergolong sederhana. hal yang paling penting sebagai tolak ukur dan confusion metrix. heatmap dari confusion metrix dapat dilihat pada gambar dibawah ini:</p>
 <br>
+![demo](https://github.com/rammahayufitra/Diabetes-Prediction-Using-ANN/blob/main/screenshot/Screenshot%20from%202021-10-23%2012-26-00.png)
 
 
